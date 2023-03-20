@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #333;
+  margin-top: 2rem;
+}
+
+#quote {
+  font-size: 1.5rem;
+  color: #666;
+  margin: 2rem auto;
+  width: 80%;
+  text-align: center;
+}
+
+#next-btn {
+  display: block;
+  margin: 0 auto;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#new-quote-form {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 0 auto;
+}
+
+#new-quote-form label {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+#new-quote-form input {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+}
+
+#new-quote-form button[type="submit"] {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
