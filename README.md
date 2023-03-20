@@ -1,1 +1,1 @@
-# lecture_56_JS_Quote_Generator
+# lecture_55_JS_Quote_Generator
