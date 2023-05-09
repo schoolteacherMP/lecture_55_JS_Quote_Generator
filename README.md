@@ -1,4 +1,5 @@
 # lecture_55_JS_Quote_Generator  
+
 ![image](https://user-images.githubusercontent.com/113675674/226332425-d7f55f6c-0b33-4dbe-9a68-952aa89550a8.png)  
 
 ## Проект "Цитатный генератор".
